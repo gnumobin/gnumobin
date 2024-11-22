@@ -1,7 +1,21 @@
 ## Hi there 👋, <strong>Im Mobin Ghaemi</strong>
 
-<p>I Love <strong>Javascript</strong> and <strong>Linux</strong>. :)</p>
-  
 <main>
- <img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=gnumobin&data=followers,repositories,stars,commits&theme=darkmode" />
+  <p>
+    I Love <strong>Javascript</strong>
+    <img src="images/js.png" width="18" />
+    and <strong>Linux</strong> 
+    <img src="images/linux.png" width="18" /> &nbsp; 🥰
+  </p>
 </main>
+
+<style>
+  p {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+  img {
+    width: 16px;
+  }
+</style>
