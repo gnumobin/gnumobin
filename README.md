@@ -1,7 +1,7 @@
 ## Hi there 👋, <strong>Im Mobin Ghaemi</strong>
 
 <main>
-  <p style="display: flex; align-items: center; gap: 4px;">
+  <p>
     I Love <strong>Javascript</strong>
     <img src="images/js.png" width="16" />
     and <strong>Linux</strong> 
