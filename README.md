@@ -1,6 +1,8 @@
 ## Hi there 👋, <strong>Im Mobin Ghaemi</strong>
-<main>
-  
-### I Love <strong>Javascript</strong> and <strong>Linux</strong>! 🥰
 
+<main>
+  <h3>
+      I Love <strong>Javascript</strong>
+      and <strong>Linux</strong>! 🥰
+  </h3>
 </main>
