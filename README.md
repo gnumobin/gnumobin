@@ -5,6 +5,7 @@
 <main>
   
   ### 👨🏻‍💻 - Technologies I Use
+
   <section>
     <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
     <img width="2" />
@@ -32,12 +33,17 @@
     <img
       src="https://img.shields.io/badge/Codepen-212529?logo=codepen&logoColor=white"
       height="24"
-      alt="Arch Linux"
+      alt="Codepen"
     />
     <img
       src="https://img.shields.io/badge/VS%20Code-0078d7?logo=xcode&logoColor=white"
       height="24"
-      alt="Arch Linux"
+      alt="Vs code"
+    />
+    <img
+      src="https://img.shields.io/badge/Wine-990012?logo=wine&logoColor=white"
+      height="24"
+      alt="Wine"
     />
   </section>
 </main>
