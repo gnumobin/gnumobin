@@ -3,6 +3,7 @@
 ### 🥰 - I Love <strong>Javascript</strong> and <strong>Linux</strong>!
 
 <main>
+  
   ### 👨🏻‍💻 - Technologies I Use
   <section>
     <img src="https://skillicons.dev/icons?i=html" height="35" alt="HTML" />
