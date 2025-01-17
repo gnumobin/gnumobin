@@ -36,14 +36,14 @@
       alt="Codepen"
     />
     <img
-      src="https://img.shields.io/badge/VS%20Code-0078d7?logo=xcode&logoColor=white"
-      height="24"
-      alt="Vs code"
-    />
-    <img
       src="https://img.shields.io/badge/Wine-990012?logo=wine&logoColor=white"
       height="24"
       alt="Wine"
+    />
+    <img
+      src="https://img.shields.io/badge/VS%20Code-0078d7?logo=xcode&logoColor=white"
+      height="24"
+      alt="Vs code"
     />
   </section>
 </main>
