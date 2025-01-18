@@ -1,6 +1,6 @@
-## Hey 👋, <strong>Im Mobin Ghaemi</strong>
+### Hey 👋, <strong>Im Mobin Ghaemi</strong>
 
-### 🥰 - I Love <strong>Javascript</strong> and <strong>Linux</strong>!
+- 🥰 - I Love <strong>Javascript</strong> and <strong>Linux</strong>!
 
 <main>
   
