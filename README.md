@@ -45,5 +45,11 @@
       height="24"
       alt="Vs code"
     />
+    <img
+      src="https://img.shields.io/badge/OBS%20Studio-0078d7?logo=obs&logoColor=white"
+      height="24"
+      alt="OBS Studio"
+    />
+    
   </section>
 </main>
