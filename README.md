@@ -46,7 +46,7 @@
       alt="Vs code"
     />
     <img
-      src="https://img.shields.io/badge/OBS%20Studio-0078d7?logo=obs&logoColor=white"
+      src="https://img.shields.io/badge/OBS%20Studio-302E31?logo=obs&logoColor=white"
       height="24"
       alt="OBS Studio"
     />
