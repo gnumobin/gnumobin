@@ -3,6 +3,7 @@
 - 🥰 - I Love <strong>Javascript</strong> and <strong>Linux</strong>!
 
 <main>
+  <img src="./assets/banner.gif" alt="web developer banner" />
   
   ### 👨🏻‍💻 - Technologies I Use
 
